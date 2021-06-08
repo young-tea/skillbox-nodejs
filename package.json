@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/young-tea/skillbox-nodejs/issues"
   },
-  "homepage": "https://github.com/young-tea/skillbox-nodejs#readme"
+  "homepage": "https://github.com/young-tea/skillbox-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
 }
